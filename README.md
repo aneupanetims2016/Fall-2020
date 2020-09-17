@@ -1,6 +1,8 @@
 # Fall-2020
 
 #Setup
+
+
 Start here and familiarize yourself with the tools we will be using:
 
 Github: https://github.com/join
@@ -49,9 +51,10 @@ Python Notes 1 https://github.com/williamedwardhahn/Biostatistics/blob/master/Py
 Python Notes 2 https://github.com/williamedwardhahn/Biostatistics/blob/master/Python_Notes2.pdf
 
 Intro to Github, Colab, and Overleaf
+
 https://www.youtube.com/watch?v=50wdMpfO9t0
 
-Lab 2
+#Lab 2
 Read
 First two chapters of https://github.com/williamedwardhahn/Biostatistics/blob/master/Life_Machinery_Notes.pdf
 
@@ -60,7 +63,7 @@ https://colab.research.google.com/drive/1ss5UcImGzrdMavzKtCHfMERu1YeGkTn4?usp=sh
 
 Comment as much of the code as you can, it is ok if you don't understand all of the pieces. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.
 
-Lab 3
+#Lab 3
 Read
 Intro Notes https://github.com/williamedwardhahn/Biostatistics/blob/master/Intro_Notes.pdf
 
