@@ -1,6 +1,8 @@
 # Fall-2020
 
 #Setup
+
+
 Start here and familiarize yourself with the tools we will be using:
 
 Github: https://github.com/join
@@ -23,7 +25,9 @@ For each Lab the following will be submitted the following week to your Github:
 Commented and Documented Colab Notebook (Upload .ipynb)
 Written Lab Report Typed in Latex
 Report Reformatted into Presentation Slides
-Lab 1
+#Lab 1
+
+
 Watch: Biostatistics History
 From time 8:50-18:00 https://youtu.be/m5V9QqTRGjk?t=501
 
@@ -55,6 +59,8 @@ https://www.youtube.com/watch?v=50wdMpfO9t0
 
 
 #Lab 2
+
+
 Read
 First two chapters of https://github.com/williamedwardhahn/Biostatistics/blob/master/Life_Machinery_Notes.pdf
 
@@ -64,6 +70,8 @@ https://colab.research.google.com/drive/1ss5UcImGzrdMavzKtCHfMERu1YeGkTn4?usp=sh
 Comment as much of the code as you can, it is ok if you don't understand all of the pieces. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.
 
 #Lab 3
+
+
 Read
 Intro Notes https://github.com/williamedwardhahn/Biostatistics/blob/master/Intro_Notes.pdf
 
