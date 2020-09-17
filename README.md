@@ -1,7 +1,6 @@
 # Fall-2020
-ABCD
-EFGH
-Setup
+
+#Setup
 Start here and familiarize yourself with the tools we will be using:
 
 Github: https://github.com/join
