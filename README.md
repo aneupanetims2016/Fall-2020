@@ -25,6 +25,8 @@ For each Lab the following will be submitted the following week to your Github:
 Commented and Documented Colab Notebook (Upload .ipynb)
 Written Lab Report Typed in Latex
 Report Reformatted into Presentation Slides
+
+
 #Lab 1
 
 
