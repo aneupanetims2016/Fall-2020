@@ -26,6 +26,8 @@ Commented and Documented Colab Notebook (Upload .ipynb)
 Written Lab Report Typed in Latex
 Report Reformatted into Presentation Slides
 
+https://www.youtube.com/watch?v=50wdMpfO9t0
+
 
 #Lab 1
 
