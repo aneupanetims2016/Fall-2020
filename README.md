@@ -101,7 +101,9 @@ Notebook
 Flowers 102 https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
 
 Final Project
+
 Data Collection
+
 For your final project you will find or create your own biology/healthcare image dataset. This dataset will consist of at least (2) two categories.
 
 Two possible ways to create your dataset: (1) Make one with your own with your camera/phone or (2) Build one with Image Search (Google/Bing)
